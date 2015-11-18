@@ -1,0 +1,191 @@
+text	category	wavName
+*cough*	COUGH	coughing
+a lot of	ADJECTIVE	
+aeh...	COUGH	aeh2
+aeh... 	COUGH	aeh
+analysi	NOUN_SINGULAR	
+and	AND	
+and	FIXED_PHRASE 
+and maybe	FIXED_PHRASE	
+approvement	NOUN_SINGULAR	
+are	ARE	
+as far as we understood it	FIXED_PHRASE	
+as the next steps	FIXED_PHRASE
+because my experience is	FIXED_PHRASE	
+before	ADJECTIVE	
+board of directors	NOUN_SINGULAR	
+brief	ADJECTIVE	
+calculate	VERB_PRESENT	
+call it	FIXED_PHRASE
+call it	VERB_PRESENT	
+character	NOUN_SINGULAR	
+claim management	NOUN_SINGULAR	
+collaboration	NOUN_SINGULAR	
+combination	NOUN_SINGULAR	
+company	NOUN_SINGULAR	
+complicated	ADJECTIVE	
+components	NOUN_PLURAL	
+components	NOUN_PLURAL	components2
+contribute	VERB_PRESENT	
+covers	VERB_PRESENT	
+covers	VERB_THIRD_PERSON	
+current situation	NOUN_SINGULAR	
+departments	NOUN_PLURAL	
+develop	VERB_PRESENT	
+distribute	VERB__PRESENT	
+distribution	NOUN_SINGULAR	
+do you know...?	FIXED_PHRASE	do you know
+employees	NOUN_PLURAL	
+enhaze	VERB_PRESENT	
+enhaze competitveness	FIXED_PHRASE	
+evidence	NOUN_SINGULAR	
+exchange	VERB_PRESENT	
+experience	NOUN_SINGULAR	
+explain it to me with some words	FIXED_PHRASE	
+facing	ING	
+feedback	NOUN_SINGULAR	
+first	ADJECTIVE
+first	ADJECTIVE	
+first part	NOUN_SINGULAR	
+for example	FIXED_PHRASE	
+for example	FIXED_PHRASE	for example2
+for these departments	NOUN_PLURAL	
+for you	FIXED_PHRASE	
+from other participants	FIXED_PHRASE	
+GIG	NOUN_SINGULAR	
+guys	NOUN_PLURAL	
+has	VERB_THIRD_PERSON	
+have	VERB_PRESENT	
+how many	FIXED_PHRASE	
+I repeat	FIXED_PHRASE
+if they go there	FIXED_PHRASE	
+in	PREPOSITION	
+in an environment characterised by		FIXED_PHRASE	
+in charge	ADJECTIVE	
+in review	NOUN_SINGULAR	
+in this department, this department, this department	NOUN_SINGULAR	
+in your situation	FIXED_PHRASE	
+inside	ADJECTIVE	
+inside	PREPOSITION	
+is	FIXED_PHRASE	
+is characterised	FIXED_PHRASE	
+lets go back	FIXED_PHRASE	
+lets go back to what we discussed	FIXED_PHRASE	
+lets show how	FIXED_PHRASE			
+letters	NOUN_PLURAL	
+main	ADJECTIVE	
+main part	NOUN_SINGULAR	
+main parts	NOUN_PLURAL
+make a screenshot	SCREENSHOT	
+make a screenshot	SCREENSHOT	
+make any screenshot	SCREENSHOT	
+make any screenshot	SCREENSHOT	
+manning level	NOUN_SINGULAR	
+many	ADJECTIVE	
+meeting	NOUN_SINGULAR	
+meetings	NOUN_PLURAL	
+minutes	NOUN_PLURAL	
+nearly	ADJECTIVE	
+need	VERB_SINGULAR	
+new products	NOUN_PLURAL	
+number number number	NOUN_SINGULAR	
+of	FIXED_PHRASE	
+organization chart	NOUN_SINGULAR	
+organize	VERB_PRESENT	
+other things	NOUN_PLURAL	
+our	POSSESSIVE
+our work	NOUN_SINGULAR	
+part	NOUN_SINGULAR	
+part	NOUN_SINGULAR	part2
+participants	NOUN_PLURAL	
+parts	NOUN_PLURAL	
+parts	NOUN_PLURAL	parts2
+pattern	NOUN_SINGULAR	
+person	NOUN_SINGULAR	
+please explain	FIXED_PHRASE	
+policies	NOUN_PLURAL	
+price competition	NOUN_SINGULAR	
+price sensitive	ADJECTIVE	
+process	NOUN_SINGULAR	
+process pattern	NOUN_SINGULAR	
+process pattern	NOUN_SINGULAR	process pattern2
+product development	NOUN_SINGULAR	
+product development	NOUN_SINGULAR	product development2
+project	NOUN_SINGULAR	
+project work	NOUN_SINGULAR	
+project work	NOUN_SINGULAR	project work2
+recognize	VERB_PRESENT	
+relevance	NOUN_SINGULAR	
+requirement	NOUN_SINGULAR	
+requirements	NOUN_PLURAL	
+review	NOUN_SINGULAR	
+room reservation	NOUN_SINGULAR	
+room reservation	NOUN_SINGULAR	room reservation2
+sales part	NOUN_SINGULAR	
+say	VERB_PRESENT	
+second	ENUMERATION	
+see	VERB_PRESENT	
+see here thats your company	FIXED_PHRASE
+send	VERB_PRESENT	
+shared folders	NOUN_PLURAL	
+shared folders	NOUN_PLURAL	shared folders2
+show	NOUN_SINGULAR	
+show	VERB_PRESENT	
+slides	NOUN_PLURAL	
+so	COUGH	
+so lets have a look	FIXED_PHRASE	
+some meeting	NOUN_SINGULAR	
+something	NOUN_SINGULAR	
+start	VERB_PRESENT
+storyline	NOUN_SINGULAR	
+strategy	NOUN_SINGULAR	
+sub task	NOUN_SINGULAR	
+ten	NUMBER	
+that	DEMONSTRATION	
+that uhm	COUGH	
+thats	DEMONSTRATION	
+thats why we introduce	FIXED_PHRASE	
+the	FIXED_PHRASE	the
+the	FIXED_PHRASE	the2
+the	FIXED_PHRASE	the3
+the	THE	the
+the	THE	the2
+the	THE	the3
+the	THE	the4
+there is a	DEMONSTRATION	
+these	DEMONSTRATION	
+they need	FIXED_PHRASE	
+think	VERB_PRESENT	
+third	ENUMERATION	
+this department	NOUN_SINGULAR	
+thousands of	NUMBER	
+three	NUMBER	
+to	FIXED_PHRASE	
+to	FIXED_PHRASE	to2
+to	TO	
+to	TO	to2
+to me	FIXED_PHRASE		
+uhm	COUGH	
+understood	VERB_PAST	
+users	NOUN_PLURAL	
+very important	ADJECTIVE	
+very very huge	ADJECTIVE	
+viadesk	NOUN_SINGULAR	
+we	PRONOUN	
+we	PRONOUN	we2
+we are here to	FIXED_PHRASE	
+we think there is a	FIXED_PHRASE	
+we understood	FIXED_PHRASE	
+we understood	FIXED_PHRASE	we understood2
+we use this	FIXED_PHRASE	
+what	WHAT	
+whats it	FIXED_PHRASE	
+when you see it	FIXED_PHRASE	
+why	FIXED_PHRASE	
+write	VERB_PRESENT	
+you	PRONOUN	
+you	PRONOUN	you2
+you will find	FIXED_PHRASE	
+your	POSSESSIVE	
+your	POSSESSIVE	your2
+äh... 	COUGH	aeh
